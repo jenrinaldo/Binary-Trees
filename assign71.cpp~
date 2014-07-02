@@ -1,0 +1,20 @@
+#include <cassert>
+#include <iostream>
+#include "binarytree.h"
+
+void intro();
+
+int main() {
+  bTreeClass bTree;
+  bool success;
+
+  int element = 1;
+  bTree.insert(element, success);
+  bTree.printTree();
+
+  return 0;
+}
+
+void intro() {
+  
+}

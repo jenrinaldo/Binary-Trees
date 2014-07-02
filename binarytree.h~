@@ -1,0 +1,27 @@
+#define ARRAY_MAX 100
+using namespace std;
+
+class bTreeClass {
+  
+ public:
+  // constructors and destructor
+  bTreeClass();
+  ~bTreeClass();
+  
+  bool insert(int element, bool& success);
+  bool deleteNode();
+  bool deleteNode(bool& success, int& n);
+  int displayLevel(int element, bool& success);
+  bool isEmpty() const;
+  void inorder() const;
+  void preorder() const;
+  void postorder() const;
+  int HeightOfTree() const;
+  int NumberOfElements() const;
+  
+ private:
+  int arr[100];
+  int height;
+  int numElements;
+};
+

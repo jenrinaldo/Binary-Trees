@@ -1,0 +1,1068 @@
+Username:  hunsinm
+Date:      Mon Apr 15 13:25:53 EDT 2013
+ 
+***making assign7 ***
+make: `assign7' is up to date.
+--- Running ---
+ 
+Written by: Mark Hunsinger
+Binary Trees - Array Implementation
+This program creates and manipulates a binary tree
+
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 1
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 2
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 3
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 4
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 5
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 6
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 7
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 9
+Tree is not full.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 7
+height = 3
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 8
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 9
+Tree is full.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 8
+number of elements = 8
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 7
+height = 4
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 9
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 10
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 11
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 12
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 13
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 14
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 9
+Tree is not full.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 8
+number of elements = 14
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 7
+height = 4
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 1
+Enter an integer to add: 
+You entered: 15
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 9
+Tree is not full.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 8
+number of elements = 15
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 7
+height = 4
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 1
+1 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 2
+2 3 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 3
+4 5 6 7 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 4
+8 9 10 11 12 13 14 15 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 5
+You entered invalid input. Please enter a positive integer
+Enter level to display: 
+You entered: 4
+8 9 10 11 12 13 14 15 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 5
+1 8 4 9 2 10 5 11 12 6 13 3 14 7 15 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 6
+8 4 9 2 10 5 11 12 6 13 3 14 7 15 1 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+15 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 4
+8 4 9 2 10 5 11 1 12 6 13 3 14 7 15 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 5
+1 8 4 9 2 10 5 11 12 6 13 3 14 7 15 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 6
+8 4 9 2 10 5 11 12 6 13 3 14 7 15 1 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 9
+Tree is not full.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 8
+number of elements = 14
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 7
+height = 4
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+14 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+13 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+12 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+11 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+10 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+9 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+8 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 9
+Tree is not full.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 8
+number of elements = 7
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 7
+height = 3
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 1
+1 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 2
+2 3 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 3
+4 5 6 7 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 4
+8 4 2 5 1 6 3 7 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 5
+1 8 4 2 5 6 3 7 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 6
+8 4 2 5 6 3 7 1 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+7 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+6 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+5 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+4 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+3 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 1
+1 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 3
+Enter level to display: 
+You entered: 2
+2 3 
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+2 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+1 deleted from the tree
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 2
+Tree is empty.
+Delete unsuccessful
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 4
+Tree is empty.
+
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 5
+Tree is empty.
+
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 6
+Tree is empty.
+
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 10
+Exiting. Goodbye!
+--- invalid inputRunning again ---
+ 
+Written by: Mark Hunsinger
+Binary Trees - Array Implementation
+This program creates and manipulates a binary tree
+
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 0
+You entered invalid input. Please enter a menu item.
+ 1. Add element.
+ 2. Delete element.
+ 3. Display level of an element.
+ 4. Print tree (inorder traversal)
+ 5. Print tree (preorder traversal)
+ 6. Print tree (postorder traversal)
+ 7. Print height.
+ 8. Print number of elements.
+ 9. Display whether tree is full or not.
+10. Exit.
+----------
+Please enter a menu item: 
+You entered: 10
+Exiting. Goodbye!
+ 
